@@ -1,79 +1,58 @@
-```
-╔══════════════════════════════════════════════╗
-║                                                ║
-║                  m a i n h e s e               ║
-║                                                ║
-║       dev em formação  ·  artista digital     ║
-║                  Recife - PE                ║
-║                                                ║
-╚══════════════════════════════════════════════╝
-```
+<h1 align="center">👋 oi, eu sou a mainhese</h1>
+<p align="center"><i>Danielle — dev em formação & artista digital</i> 🏳️‍⚧️</p>
 
-### ⋆｡°✩ oi, eu sou a Danielle ✩°｡⋆
+<br/>
 
-> Estudo **Análise e Desenvolvimento de Sistemas** (6° período, Unibra) e divido meu tempo entre programar e desenhar. Pra mim as duas coisas vêm do mesmo lugar: gosto de criar algo do zero e ver funcionar — ou ficar bonito, ou os dois. 💜
+## 🧑‍💻 apresentação
 
-**🔎 status:** buscando estágio / vaga de entrada em ADS
+Sou a Danielle, mas por aqui me chamam de **mainhese**. Estou construindo minha trajetória na programação, com interesse tanto em front-end quanto em back-end, e também sou artista digital nas horas vagas — gosto de criar, seja em código ou em desenho.
 
----
+<br/>
 
-### ୨ৎ formação & objetivo
+## 📚 o que estou fazendo
 
-| campo | info |
-|:--|:--|
-| 🎓 curso | Análise e Desenvolvimento de Sistemas |
-| 🏫 instituição | Unibra |
-| 📖 período | 6° |
-| 📍 cidade | Recife - PE |
-| 🎯 objetivo | estágio ou vaga de entrada em Dev |
+Atualmente curso **Análise e Desenvolvimento de Sistemas** (6° período) e estudo front-end e back-end por conta própria.
 
----
-
-### ⌨️ stack
-
-```
-Python      ██████████░░  aprendendo
-JavaScript  ████████░░░░  aprendendo
-PHP         ███████░░░░░  aprendendo
-C++         ██████░░░░░░  aprendendo
-CSS3        █████████░░░  aprendendo
-SQLite      ███████░░░░░  aprendendo
-MySQL       ███████░░░░░  aprendendo
-Linux       ████████░░░░  no dia a dia
-```
-
----
-
-### 📌 projeto em destaque
-
-```
-┌──────────────────────────────────────┐
-│  🚀  Focus                            │
-│  meu projeto mais significativo       │
-│  até agora — em constante atualização │
-└──────────────────────────────────────┘
-```
+**🚧 Focus** — projeto em conjunto, meu trabalho mais significativo até agora, ainda em desenvolvimento.
 🔗 [github.com/maineseh](https://github.com/maineseh)
 
----
+<br/>
 
-### 🎨 fora do código
+## ⚡ skills
 
-Também sou **artista digital** — desenho nas horas vagas, e isso vaza um pouco pro jeito como penso em interface e design. ✨
+<img src="https://img.shields.io/badge/Python-5BCEFA?style=for-the-badge&logo=python&logoColor=282a36" />
+<img src="https://img.shields.io/badge/JavaScript-F5A9B8?style=for-the-badge&logo=javascript&logoColor=282a36" />
+<img src="https://img.shields.io/badge/PHP-FFFFFF?style=for-the-badge&logo=php&logoColor=282a36" />
+<img src="https://img.shields.io/badge/C%2B%2B-5BCEFA?style=for-the-badge&logo=cplusplus&logoColor=282a36" />
+<img src="https://img.shields.io/badge/CSS3-F5A9B8?style=for-the-badge&logo=css3&logoColor=282a36" />
+<img src="https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=282a36" />
+<img src="https://img.shields.io/badge/MySQL-5BCEFA?style=for-the-badge&logo=mysql&logoColor=282a36" />
 
----
+<br/>
 
-### 📫 contato
+## 🧰 ferramentas
 
-```
-[ em breve — links chegando junto com o portfólio ]
-```
+<img src="https://img.shields.io/badge/VS%20Code-F5A9B8?style=for-the-badge&logo=visualstudiocode&logoColor=282a36" />
+<img src="https://img.shields.io/badge/Krita-FFFFFF?style=for-the-badge&logo=krita&logoColor=282a36" />
+<img src="https://img.shields.io/badge/Linux-5BCEFA?style=for-the-badge&logo=linux&logoColor=282a36" />
 
----
+<br/>
 
-<div align="center">
+## 🖼️ portfólio
 
-⋆｡°✩ *obrigada por passar por aqui* ✩°｡⋆
+<a href="#">
+<img src="https://img.shields.io/badge/ver_portfólio-F5A9B8?style=for-the-badge&logo=googlechrome&logoColor=282a36" />
+</a>
 
-</div>
+<sub>*(link em breve)*</sub>
 
+<br/>
+<br/>
+
+## 📬 contato
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-5BCEFA?style=for-the-badge&logo=linkedin&logoColor=282a36" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=282a36" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-F5A9B8?style=for-the-badge&logo=instagram&logoColor=282a36" /></a>
+
+<sub>*(links em breve)*</sub>
