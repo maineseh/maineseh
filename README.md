@@ -1,51 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=oi,%20eu%20sou%20a%20Danielle&fontSize=32&fontColor=BD93F9&animation=fadeIn&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5bcefa,f5a9b8,ffffff,f5a9b8,5bcefa&height=200&section=header&text=mainhese&fontSize=60&fontColor=282a36&fontAlignY=35&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF79C6&background=00000000&center=true&vCenter=true&width=500&lines=mainhese+%F0%9F%92%9C;dev+em+forma%C3%A7%C3%A3o+%2B+artista+digital;construindo+coisas+bonitas+%E2%80%94+em+c%C3%B3digo+e+em+arte" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A9B8&center=true&vCenter=true&width=480&lines=Danielle+%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F;dev+em+forma%C3%A7%C3%A3o+%2B+artista+digital;buscando+est%C3%A1gio+%2F+vaga+de+entrada" />
 
 </div>
 
 <br/>
 
-## 🌙 sobre mim
+## 🧑‍💻 apresentação
 
-Sou a Danielle, mas por aqui me conhecem como **mainhese**. Estou cursando Análise e Desenvolvimento de Sistemas em Recife, e divido meu tempo entre aprender a programar e desenhar — pra mim as duas coisas vêm do mesmo lugar: gosto de criar algo do zero e ver funcionar (ou ficar bonito, ou os dois).
-
-Ainda estou no começo da carreira dev, então nem tudo aqui é domínio total — mas é tudo estudado com interesse de verdade. Atualmente **buscando estágio ou vaga de entrada** na área.
+Sou a Danielle, mas por aqui me chamam de **mainhese**. Estou construindo minha trajetória na programação, com interesse tanto em front-end quanto em back-end, e também sou artista digital nas horas vagas — gosto de criar, seja em código ou em desenho.
 
 <br/>
 
-## 🖤 destaque
+## 📚 o que estou fazendo
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas** (6° período) e estudo front-end e back-end por conta própria.
+
+**🚧 Focus** — projeto em conjunto, meu trabalho mais significativo até agora, ainda em desenvolvimento.
+🔗 [github.com/maineseh](https://github.com/maineseh)
+
+<br/>
+
+## ⚡ skills
 
 <div align="center">
 
-### [Focus](https://github.com/maineseh)
-*meu projeto mais significativo até agora — em constante atualização*
+<img src="https://img.shields.io/badge/HTML5-5BCEFA?style=for-the-badge&logo=html5&logoColor=282a36" />
+<img src="https://img.shields.io/badge/CSS3-F5A9B8?style=for-the-badge&logo=css3&logoColor=282a36" />
+<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=282a36" />
+<img src="https://img.shields.io/badge/Python-5BCEFA?style=for-the-badge&logo=python&logoColor=282a36" />
+<img src="https://img.shields.io/badge/PHP-F5A9B8?style=for-the-badge&logo=php&logoColor=282a36" />
+<img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=282a36" />
+<img src="https://img.shields.io/badge/SQLite-5BCEFA?style=for-the-badge&logo=sqlite&logoColor=282a36" />
+<img src="https://img.shields.io/badge/MySQL-F5A9B8?style=for-the-badge&logo=mysql&logoColor=282a36" />
 
 </div>
 
 <br/>
 
-## 🛠️ com o que trabalho
+## 🧰 ferramentas
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=BD93F9" />
-<img src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=BD93F9" />
-<img src="https://img.shields.io/badge/PHP-282a36?style=for-the-badge&logo=php&logoColor=BD93F9" />
-<img src="https://img.shields.io/badge/C++-282a36?style=for-the-badge&logo=cplusplus&logoColor=BD93F9" />
-<img src="https://img.shields.io/badge/CSS3-282a36?style=for-the-badge&logo=css3&logoColor=BD93F9" />
-<img src="https://img.shields.io/badge/SQLite-282a36?style=for-the-badge&logo=sqlite&logoColor=BD93F9" />
-<img src="https://img.shields.io/badge/MySQL-282a36?style=for-the-badge&logo=mysql&logoColor=BD93F9" />
+<img src="https://img.shields.io/badge/VS%20Code-5BCEFA?style=for-the-badge&logo=visualstudiocode&logoColor=282a36" />
+<img src="https://img.shields.io/badge/Krita-F5A9B8?style=for-the-badge&logo=krita&logoColor=282a36" />
+<img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=282a36" />
 
 </div>
-
-<br/>
-
-## 🎨 fora do código
-
-não sou só dev em formação — também sou **artista digital**. gosto de desenhar nas horas vagas, e às vezes isso vaza pro jeito como penso em interface e design também.
 
 <br/>
 
@@ -53,35 +56,38 @@ não sou só dev em formação — também sou **artista digital**. gosto de des
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maineseh&show_icons=true&hide_border=true&theme=dracula&bg_color=00000000&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maineseh&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&title_color=BD93F9&text_color=F8F8F2" width="35%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maineseh&hide_border=true&theme=dracula&background=00000000&stroke=BD93F9&ring=FF79C6&fire=FF79C6&currStreakLabel=BD93F9" width="60%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=maineseh&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=8" width="80%" />
+<img src="https://github-readme-stats.vercel.app/api?username=maineseh&show_icons=true&hide_border=true&hide_title=true&theme=dracula&bg_color=282a36&icon_color=F5A9B8&text_color=F8F8F2&title_color=5BCEFA" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maineseh&layout=compact&hide_border=true&hide_title=true&theme=dracula&bg_color=282a36&text_color=F8F8F2&title_color=5BCEFA" height="150" />
 
 </div>
 
 <br/>
 
-## 📫 vamos conversar
+## 🖼️ portfólio
 
 <div align="center">
 
-<!-- adicione seus links aqui quando quiser -->
-<!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=BD93F9"/></a> -->
-<!-- <a href="#"><img src="https://img.shields.io/badge/Instagram-282a36?style=for-the-badge&logo=instagram&logoColor=BD93F9"/></a> -->
+<a href="#"><img src="https://img.shields.io/badge/ver_portfólio-5BCEFA?style=for-the-badge&logo=googlechrome&logoColor=282a36" /></a>
 
-*em breve* ✨
+<sub>*(link em breve)*</sub>
 
 </div>
+
+<br/>
+
+## 📬 contato
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-5BCEFA?style=for-the-badge&logo=linkedin&logoColor=282a36" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-F5A9B8?style=for-the-badge&logo=gmail&logoColor=282a36" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=282a36" /></a>
+
+<sub>*(links em breve)*</sub>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5bcefa,f5a9b8,ffffff,f5a9b8,5bcefa&height=120&section=footer" />
+
