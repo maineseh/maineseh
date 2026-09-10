@@ -1,73 +1,87 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5bcefa,f5a9b8,ffffff,f5a9b8,5bcefa&height=200&section=header&text=mainhese&fontSize=60&fontColor=282a36&fontAlignY=38&animation=twinkling&desc=dev%20em%20forma%C3%A7%C3%A3o%20%26%20artista%20digital&descAlignY=58&descSize=20" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=oi,%20eu%20sou%20a%20Danielle&fontSize=32&fontColor=BD93F9&animation=fadeIn&fontAlignY=65" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FF79C6&background=00000000&center=true&vCenter=true&width=500&lines=mainhese+%F0%9F%92%9C;dev+em+forma%C3%A7%C3%A3o+%2B+artista+digital;construindo+coisas+bonitas+%E2%80%94+em+c%C3%B3digo+e+em+arte" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/💻_dev_em_formação-5BCEFA?style=for-the-badge&labelColor=282a36" />
-<img src="https://img.shields.io/badge/🎨_artista_digital-F5A9B8?style=for-the-badge&labelColor=282a36" />
-<img src="https://img.shields.io/badge/📍_recife--pe-FFFFFF?style=for-the-badge&labelColor=282a36&color=E0E0E0" />
+## 🌙 sobre mim
 
-<br/><br/>
+Sou a Danielle, mas por aqui me conhecem como **mainhese**. Estou cursando Análise e Desenvolvimento de Sistemas em Recife, e divido meu tempo entre aprender a programar e desenhar — pra mim as duas coisas vêm do mesmo lugar: gosto de criar algo do zero e ver funcionar (ou ficar bonito, ou os dois).
 
-<img src="https://img.shields.io/badge/🔎_buscando_estágio_/_vaga_de_entrada_em_ADS-282a36?style=for-the-badge&labelColor=F5A9B8" />
-
-<br/><br/>
-
-> ### 🌊 sobre mim
->
-> Estudo Análise e Desenvolvimento de Sistemas em Recife (6° período) e divido meu tempo entre programar e desenhar. Pra mim as duas coisas vêm do mesmo lugar: gosto de criar algo do zero e ver funcionar — ou ficar bonito, ou os dois.
->
-> Ainda no começo da carreira dev, então nem tudo aqui é domínio total, mas é tudo estudado com interesse de verdade. 💜
+Ainda estou no começo da carreira dev, então nem tudo aqui é domínio total — mas é tudo estudado com interesse de verdade. Atualmente **buscando estágio ou vaga de entrada** na área.
 
 <br/>
 
-> ### 🎓 formação & objetivo
->
-> | | |
-> |---|---|
-> | **curso** | Análise e Desenvolvimento de Sistemas — Unibra |
-> | **período** | 6° |
-> | **cidade** | Recife - PE |
-> | **objetivo** | estágio ou posição de entrada em Dev |
+## 🖤 destaque
+
+<div align="center">
+
+### [Focus](https://github.com/maineseh)
+*meu projeto mais significativo até agora — em constante atualização*
+
+</div>
 
 <br/>
 
-> ### 💻 stack
->
-> <img src="https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=5BCEFA" />
-> <img src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=F5A9B8" />
-> <img src="https://img.shields.io/badge/PHP-282a36?style=for-the-badge&logo=php&logoColor=5BCEFA" />
-> <img src="https://img.shields.io/badge/C%2B%2B-282a36?style=for-the-badge&logo=cplusplus&logoColor=F5A9B8" />
-> <img src="https://img.shields.io/badge/CSS3-282a36?style=for-the-badge&logo=css3&logoColor=5BCEFA" />
-> <img src="https://img.shields.io/badge/SQLite-282a36?style=for-the-badge&logo=sqlite&logoColor=F5A9B8" />
-> <img src="https://img.shields.io/badge/MySQL-282a36?style=for-the-badge&logo=mysql&logoColor=5BCEFA" />
-> <img src="https://img.shields.io/badge/Linux-282a36?style=for-the-badge&logo=linux&logoColor=F5A9B8" />
+## 🛠️ com o que trabalho
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=BD93F9" />
+<img src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=BD93F9" />
+<img src="https://img.shields.io/badge/PHP-282a36?style=for-the-badge&logo=php&logoColor=BD93F9" />
+<img src="https://img.shields.io/badge/C++-282a36?style=for-the-badge&logo=cplusplus&logoColor=BD93F9" />
+<img src="https://img.shields.io/badge/CSS3-282a36?style=for-the-badge&logo=css3&logoColor=BD93F9" />
+<img src="https://img.shields.io/badge/SQLite-282a36?style=for-the-badge&logo=sqlite&logoColor=BD93F9" />
+<img src="https://img.shields.io/badge/MySQL-282a36?style=for-the-badge&logo=mysql&logoColor=BD93F9" />
+
+</div>
 
 <br/>
 
-> ### 📌 projeto em destaque
->
-> **[Focus](https://github.com/maineseh)**
-> meu projeto mais significativo até agora — em constante atualização 🚧
+## 🎨 fora do código
+
+não sou só dev em formação — também sou **artista digital**. gosto de desenhar nas horas vagas, e às vezes isso vaza pro jeito como penso em interface e design também.
 
 <br/>
 
-> ### 🎨 fora do código
->
-> Também sou **artista digital** — desenho nas horas vagas, e isso vaza um pouco pro jeito como penso em interface e design. ✨
+## 📊 estatísticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maineseh&show_icons=true&hide_border=true&theme=dracula&bg_color=00000000&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maineseh&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&title_color=BD93F9&text_color=F8F8F2" width="35%" />
 
 <br/>
 
-> ### 📊 estatísticas
->
-> <img src="https://github-readme-stats.vercel.app/api?username=maineseh&show_icons=true&hide_border=true&hide_title=true&theme=dracula&bg_color=282a36&icon_color=F5A9B8&text_color=F8F8F2&title_color=5BCEFA" height="150" />
-> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maineseh&layout=compact&hide_border=true&hide_title=true&theme=dracula&bg_color=282a36&text_color=F8F8F2&title_color=5BCEFA" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maineseh&hide_border=true&theme=dracula&background=00000000&stroke=BD93F9&ring=FF79C6&fire=FF79C6&currStreakLabel=BD93F9" width="60%"/>
 
 <br/>
 
-> ### 📫 contato
->
-> *em breve — adiciono os links assim que montar o portfólio* ✨
+<img src="https://github-profile-trophy.vercel.app/?username=maineseh&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=8" width="80%" />
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5bcefa,f5a9b8,ffffff,f5a9b8,5bcefa&height=150&section=footer" />
+## 📫 vamos conversar
+
+<div align="center">
+
+<!-- adicione seus links aqui quando quiser -->
+<!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=BD93F9"/></a> -->
+<!-- <a href="#"><img src="https://img.shields.io/badge/Instagram-282a36?style=for-the-badge&logo=instagram&logoColor=BD93F9"/></a> -->
+
+*em breve* ✨
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
