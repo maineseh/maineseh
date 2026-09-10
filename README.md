@@ -4,7 +4,7 @@
 ║                  m a i n h e s e               ║
 ║                                                ║
 ║       dev em formação  ·  artista digital     ║
-║                  🏳️‍⚧️  Recife - PE                ║
+║                  Recife - PE                ║
 ║                                                ║
 ╚══════════════════════════════════════════════╝
 ```
